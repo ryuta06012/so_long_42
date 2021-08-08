@@ -24,7 +24,7 @@ textures, sprites. And some very basic gameplay elements.
 
 [mandatory_part]
 
-"make"
+$make
 
 ・When an error is configer error　displayed, Run this command
 
