@@ -46,11 +46,8 @@ When an error is configer error　displayed, Run this command
 
 # operation key
 W : up
-
 A : right
-
 S : left
-
 D : down
 
 
