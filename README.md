@@ -27,10 +27,10 @@ textures, sprites. And some very basic gameplay elements.
 [mandatory_part]
 
 ・make
-　
+
 ・When an error is configer error　displayed, Run this command
 
-・　In the minilibx-linux　directory, Run make or In the minilibx-linux　directory, Run ./configer
+・In the minilibx-linux　directory, Run make or In the minilibx-linux　directory, Run ./configer
 
 ・./so_long midaim.ber
 
@@ -40,14 +40,11 @@ textures, sprites. And some very basic gameplay elements.
 
 When an error is configer error　displayed, Run this command
 
-・　In the minilibx-linux　directory, Run make or In the minilibx-linux　directory, Run ./configer
+・In the minilibx-linux　directory, Run make or In the minilibx-linux　directory, Run ./configer
 
 ・./so_long_bonus midiam.ber
 
 # operation key
-W : up
-A : right
-S : left
-D : down
+W:up A:right S:left D:down
 
 
