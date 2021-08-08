@@ -33,8 +33,8 @@ When an error is configer error　displayed, Run this command
 ・./so_long_bonus midiam.ber
 
 # operation key
-W : up
-A : right
-S : left
-D : down
+W : up \n
+A : right \n
+S : left \n
+D : down \n
 
